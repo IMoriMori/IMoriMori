@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IMoriMori
+- 👀 I’m interested in drawing, reading manga, gaming,.. you can see where this is going
+- 🌱 I’m currently learning to code in C (for my degree) and HTML (private interest)
+- 💞️ I’m looking to collaborate on whatever might catch my interest :D
